@@ -1,0 +1,14 @@
+{
+  "name": "dictamen-bot",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "mammoth": "^1.8.0",
+    "docxtemplater": "^3.50.0",
+    "pizzip": "^3.1.7",
+    "dotenv": "^16.4.5"
+  }
+}
